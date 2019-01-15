@@ -1,5 +1,5 @@
 # Flashcards
-## A project for React Nanodegree at Udacity
+## A React Native project for Udacity's React Nanodegree 
 
 ### Install  (yarn recommended)
 - Clone this project and run `yarn install` or `npm install`
@@ -7,8 +7,7 @@
 
 ***
 
-### This app was tested on Android Simulator and Android devices.
-Unfortunately I don't have enough disk space to install a MacOS virtual machine on my Windows PC, and [nobody using an iPhone was able to open it]((https://github.com/expo/expo/issues/2724)).
+## This app was tested on Android Simulator and Android devices.
 
 ### Manage decks
 |Add|Delete/Undo|Filter|
